@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jyd-9065/Desktop/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_4002603365efc06adbab5a6af5946d53c7e01934/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e91e9a0d0a892b540d07134d99cab9cb550ea9f8">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1e06eed18559d68c4889cab49c9d8bc4cb8ec8e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jyd-9065/Downloads/AMapM1/app/libs/AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Search_V3.2.1_20160308_319c5b1cd16e2196eaecb5c4e69ea974a055294c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db8b643075e65c7c5f363b2127c9a764e59eece2">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f04b480c07a937b059cc4bf6d0bd49f84c53d02/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jyd-9065/Downloads/AMapM1/app/libs/AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.4.1_20160414_3488923d9d5c24242a6d19e63897952f4b2c16d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jyd-9065/Downloads/AMapM1/app/libs/AMap3DMap_3.3.1_AMapNavi_1.8.0_20160420.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f5a9320c2bd148b5e33759da307a6121ac5f130">
+        <dex dex="/Users/jyd-9065/Downloads/AMapM1/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap3DMap_3.3.1_AMapNavi_1.8.0_20160420_523bc483b5d704b3aa8d254821e08aaa48ed263e/classes.dex" />
+    </item>
+
+</items>
